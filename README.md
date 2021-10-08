@@ -1,6 +1,4 @@
-# evergreen_app
-
-ML based cleanliness detector app
+# Login with Flutter and Firebase
 
 ## Getting Started
 
